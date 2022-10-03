@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Marcos Roberto Nunes, desenvolvedor Front-End 🙋🏾‍♂️
 
-[![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/marcos-roberto-nunes-574a60200/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/marcos-roberto-nunes-574a60200/)
 
 
 ![Marcos GitHub stats] (https://github-readme-stats.vercel.app/api?username=MarcosRNunes_icons=true&theme=dracula)
