@@ -3,8 +3,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-roberto-nunes-574a60200/)
 <a href="mailto:marcos.roberto89@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)"></img>
 
+##
+<div>
+<a href="https://github.com/MarcosRNunes">
+<img src="https://github-readme-stats.vercel.app/api?username=MarcosRNunes&show_icons=true&theme=dracula"</img>
 
-![MarcosRNunes GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosRNunes_icons=true&theme=radical)
+</div>
 
 ## Tecnologias que uso em meu dia a dia
 
