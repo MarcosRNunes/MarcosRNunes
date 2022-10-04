@@ -9,7 +9,9 @@
 
 
 <div>
-       <i class="devicon-html5-plain-wordmark colored"></i>
+       
+      <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+          
           
           
     
