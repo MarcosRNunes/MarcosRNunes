@@ -10,7 +10,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=MarcosRNunes&show_icons=true&theme=dracula"</img>
 
 </div>
-##
+
 
 ## Tecnologias que uso em meu dia a dia
 
